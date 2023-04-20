@@ -1,17 +1,16 @@
 <resources>
     <string name="app_name">Travels</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="destino_1">Santiago, Chile</string>
+    <string name="destino_1">Rapa Nui, Chile</string>
     <string name="destino_2">Paris, Francia</string>
-    <string name="destino_3">Tokio, Japon</string>
-    <string name="destino_4">Sidney, Australia</string>
-    <string name="destino_5">Buenos Aires, Argentina</string>
+    <string name="destino_3">Santorini, Grecia</string>
+    <string name="destino_4">Barcelona, España</string>
+    <string name="destino_5">Roma, Italia</string>
 
-    <string name="precio_1">$2.000.000</string>
-    <string name="precio_2">$2.000.000</string>
+    <string name="precio_1">$500.000</string>
+    <string name="precio_2">$1.200.000</string>
     <string name="precio_3">$2.000.000</string>
-    <string name="precio_4">$2.000.000</string>
-    <string name="precio_5">$2.000.000</string>
-
+    <string name="precio_4">$1.350.000</string>
+    <string name="precio_5">$1.800.000</string>
 
 </resources>
