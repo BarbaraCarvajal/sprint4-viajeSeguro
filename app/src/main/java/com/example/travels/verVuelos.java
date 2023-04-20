@@ -40,7 +40,7 @@ public class verVuelos extends Fragment {
         paisesArrayList = new ArrayList<>();
 
         paisesArrayList.add(new Paises(getString(R.string.destino_1),getString(R.string.precio_1), R.drawable.rapanui));
-        paisesArrayList.add(new Paises(getString(R.string.destino_2),getString(R.string.precio_2), R.drawable.paria));
+        paisesArrayList.add(new Paises(getString(R.string.destino_2),getString(R.string.precio_2), R.drawable.paris));
         paisesArrayList.add(new Paises(getString(R.string.destino_3),getString(R.string.precio_3), R.drawable.santorini));
         paisesArrayList.add(new Paises(getString(R.string.destino_4),getString(R.string.precio_4), R.drawable.barcelona));
         paisesArrayList.add(new Paises(getString(R.string.destino_5),getString(R.string.precio_5), R.drawable.roma));
