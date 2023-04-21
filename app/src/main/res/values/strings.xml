@@ -6,11 +6,13 @@
     <string name="destino_3">Santorini, Grecia</string>
     <string name="destino_4">Barcelona, España</string>
     <string name="destino_5">Roma, Italia</string>
+    <string name="destino_6">Tokio, Japón</string>
 
     <string name="precio_1">$500.000</string>
     <string name="precio_2">$1.200.000</string>
     <string name="precio_3">$2.000.000</string>
     <string name="precio_4">$1.350.000</string>
     <string name="precio_5">$1.800.000</string>
+    <string name="precio_6">$2.800.000</string>
 
 </resources>

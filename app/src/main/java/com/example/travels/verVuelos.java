@@ -18,10 +18,13 @@ import java.util.ArrayList;
 
 public class verVuelos extends Fragment {
     private ArrayList<Paises> paisesArrayList;
+    /*
     private String[] paisesNombres;
     private String[] paisesPrecios;
 
     private int[] imagenPaises;
+    */
+
     private RecyclerView recyclerView;
 
     @Override
@@ -44,6 +47,7 @@ public class verVuelos extends Fragment {
         paisesArrayList.add(new Paises(getString(R.string.destino_3),getString(R.string.precio_3), R.drawable.santorini));
         paisesArrayList.add(new Paises(getString(R.string.destino_4),getString(R.string.precio_4), R.drawable.barcelona));
         paisesArrayList.add(new Paises(getString(R.string.destino_5),getString(R.string.precio_5), R.drawable.roma));
+        paisesArrayList.add(new Paises(getString(R.string.destino_6),getString(R.string.precio_6), R.drawable.japon2));
 
 
 
